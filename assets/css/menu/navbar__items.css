@@ -1,0 +1,8 @@
+
+.navbar__items{
+    list-style: none;
+}
+
+.navbar__items:last-child .navbar__link{
+    margin-right: 10;
+}

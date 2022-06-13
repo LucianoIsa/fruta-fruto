@@ -1,0 +1,16 @@
+.navbar__link{
+    color: #808080dc;
+    margin-right: 3.25rem;
+    text-decoration: none;
+    text-transform:uppercase;
+}
+
+.navbar__link.activo{
+    color: #333333;
+    font-weight: bold;
+}
+
+.navbar__link:hover{
+    text-decoration:underline;
+    color:rgba(24, 231, 59, 0.692);
+}
